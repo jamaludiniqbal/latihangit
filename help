@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh Halaman Website</title>
+</head>
+<body>
+    <header>Membuat Header</header>
+    <h1>Ini adalah halaman Help/h1>
+    <div>Contoh Latihan GIT</div>
+    <footer>Membuat Footer</footer>
+</body>
+</html>
